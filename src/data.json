@@ -1,0 +1,55 @@
+[
+    {
+        "status": "Open",
+        "T": "Yes",
+        "startDate": "2012-04-15",
+        "endDate": "2012-04-15",
+        "year": "2002",
+        "quatar": "Summer",
+        "session": "A209AA309",
+        "classCode": 30,
+        "style": "BLENDED"
+
+},
+{
+    "status": "Open",
+    "T": "No",
+    "startDate": "2012-04-15",
+    "endDate": "2012-04-15",
+    "year": "2001",
+    "quatar": "Fall",
+    "session": "A209AA309",
+    "classCode": 30,
+    "style": "TUTORED"
+
+},
+
+
+
+{
+    "status": "Open",
+    "T": "No",
+    "startDate": "2012-04-15",
+    "endDate": "2012-04-15",
+    "year": "2001",
+    "quatar": "Fall",
+    "session": "A209AA309",
+    "classCode": 30,
+    "style": "TUTORED"
+
+},
+
+
+{
+    "status": "Open",
+    "T": "No",
+    "startDate": "2012-04-15",
+    "endDate": "2012-04-15",
+    "year": "2001",
+    "quatar": "Fall",
+    "session": "A209AA309",
+    "classCode": 30,
+    "style": "TUTORED"
+
+}
+]
