@@ -21,7 +21,8 @@ export function DefaultFilterForColumn({
         setFilter(e.target.value || undefined);
       }}
       placeholder={`Search....`}
-      style={{ marginTop: "10px" ,width : "120px" }}
+
+      style={{ marginTop: "10px" ,  width: "10px"   }}
     />
   );
 }
