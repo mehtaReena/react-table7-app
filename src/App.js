@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from "react";
-import axios from "axios";
+
+
 import Table from "./TableContainer";
 import { SelectColumnFilter } from "./Filter";
 import data from './data.json'
